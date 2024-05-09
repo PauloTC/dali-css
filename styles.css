@@ -128,6 +128,7 @@
 }
 
 /* Font Size */
+
 .dl-text-xs {
   font-size: 0.75rem; /* 12px */
   line-height: 1rem; /* 16px */
@@ -192,4 +193,68 @@
 .dl-text-9xl {
   font-size: 8rem; /* 128px */
   line-height: 1; /* 1 */
+}
+
+/* Font Weight */
+
+.dl-font-thin {
+  font-weight: 100;
+}
+
+.dl-font-extralight {
+  font-weight: 200;
+}
+
+.dl-font-light {
+  font-weight: 300;
+}
+
+.dl-font-normal {
+  font-weight: 400;
+}
+
+.dl-font-medium {
+  font-weight: 500;
+}
+
+.dl-font-semibold {
+  font-weight: 600;
+}
+
+.dl-font-bold {
+  font-weight: 700;
+}
+
+.dl-font-extrabold {
+  font-weight: 800;
+}
+
+.dl-font-black {
+  font-weight: 900;
+}
+
+/* Text Align */
+
+.dl-text-left {
+  text-align: left;
+}
+
+.dl-text-center {
+  text-align: center;
+}
+
+.dl-text-right {
+  text-align: right;
+}
+
+.dl-text-justify {
+  text-align: justify;
+}
+
+.dl-text-start {
+  text-align: start;
+}
+
+.dl-text-end {
+  text-align: end;
 }
