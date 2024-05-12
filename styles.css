@@ -1,7 +1,31 @@
 /* Display */
+
 .dl-flex {
   display: flex;
 }
+
+.dl-block {
+  display: block;
+}
+
+/* Flex Direction */
+
+.dl-flex-row {
+  flex-direction: row;
+}
+
+.dl-flex-row-reverse {
+  flex-direction: row-reverse;
+}
+
+.dl-flex-col {
+  flex-direction: column;
+}
+
+.dl-flex-col-reverse {
+  flex-direction: column-reverse;
+}
+
 /* Padding */
 
 .dl-p-4 {
@@ -223,6 +247,20 @@
 .dl-text-9xl {
   font-size: 8rem; /* 128px */
   line-height: 1; /* 1 */
+}
+
+/* Gap */
+
+.dl-gap-6 {
+  gap: 1.5rem; /* 24px */
+}
+
+.dl-gap-x-6 {
+  column-gap: 1.5rem; /* 24px */
+}
+
+.dl-gap-y-6 {
+  row-gap: 1.5rem; /* 24px */
 }
 
 /* Font Weight */
