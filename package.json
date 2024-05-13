@@ -1,13 +1,19 @@
 {
   "name": "dali-css",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "version": "0.0.1",
+  "description": "Librería de estilos Dali",
+  "main": "build/index.css",
+  "files": [
+    "build"
+  ],
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "node-sass --output-style compressed -o build/ src/index.scss"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "devDependencies": {}
+  "dependencies": {
+    "node-sass": "^9.0.0"
+  }
 }
