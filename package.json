@@ -1,7 +1,7 @@
 {
-  "name": "dali-components-css",
+  "name": "dali-css",
   "version": "0.0.1",
-  "description": "Librería de estilos para componentes de Dali Design System",
+  "description": "Librería de estilos Dali",
   "main": "build/index.css",
   "files": [
     "build"
