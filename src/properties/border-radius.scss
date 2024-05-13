@@ -1,0 +1,36 @@
+
+.dl-rounded-none {
+  border-radius: 0px;
+}
+
+.dl-rounded-sm {
+  border-radius: 0.125rem; /* 2px */
+}
+
+.dl-rounded {
+  border-radius: 0.25rem; /* 4px */
+}
+
+.dl-rounded-md {
+  border-radius: 0.375rem; /* 6px */
+}
+
+.dl-rounded-lg {
+  border-radius: 0.5rem; /* 8px */
+}
+
+.dl-rounded-xl {
+  border-radius: 0.75rem; /* 12px */
+}
+
+.dl-rounded-2xl {
+  border-radius: 1rem; /* 16px */
+}
+
+.dl-rounded-3xl {
+  border-radius: 1.5rem; /* 24px */
+}
+
+.dl-rounded-full {
+  border-radius: 9999px;
+}
