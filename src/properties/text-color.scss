@@ -1,3 +1,27 @@
 .dl-text-al-warning-dark {
-    color: #{dl-color-al-warning-dark};
+    color: var(--dl-color-al-primary-darkest);
+}
+
+.dl-text-al-warning-dark {
+    color: var(--dl-color-al-primary-darkest);
+}
+
+.dl-text-al-warning-dark\/100 {
+    color: rgba(var(--dl-color-al-primary-darkest), 1);
+}
+
+.dl-text-al-warning-dark\/75 {
+    color: rgba(var(--dl-color-al-primary-darkest), 0.75);
+}
+
+.dl-text-al-warning-dark\/50 {
+    color: rgba(var(--dl-color-al-primary-darkest), 0.50);
+}
+
+.dl-text-al-warning-dark\/25 {
+    color: rgba(var(--dl-color-al-primary-darkest), 0.25);
+}
+
+.dl-text-al-warning-dark\/0 {
+    color: rgba(var(--dl-color-al-primary-darkest), 0);
 }
