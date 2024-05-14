@@ -1,3 +1,23 @@
 .dl-bg-al-warning-dark {
-  background-color: var(--dl-color-al-primary-darkest);
+  background-color: rgb(71, 0, 0)
+}
+
+.dl-bg-al-warning-dark\/100 {
+  background-color: rgba(71, 0, 0, 1);
+}
+
+.dl-bg-al-warning-dark\/75 {
+  background-color: rgba(71, 0, 0, 0.75);
+}
+
+.dl-bg-al-warning-dark\/50 {
+  background-color: rgba(71, 0, 0, 0.50)
+}
+
+.dl-bg-al-warning-dark\/25 {
+  background-color: rgba(71, 0, 0, 0.25);
+}
+
+.dl-bg-al-warning-dark\/0 {
+  background-color: rgba(71, 0, 0, 0)
 }
