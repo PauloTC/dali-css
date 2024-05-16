@@ -1,9 +1,6 @@
-.dl-bg-al-warning-dark {
-  background-color: rgb(163, 76, 0)
-}
-
+.dl-bg-al-warning-dark,
 .dl-bg-al-warning-dark\/100 {
-  background-color: rgba(163, 76, 0, 1)
+  background-color: rgb(163, 76, 0)
 }
 
 .dl-bg-al-warning-dark\/75 {
@@ -20,4 +17,46 @@
 
 .dl-bg-al-warning-dark\/0 {
   background-color: rgba(163, 76, 0, 0)
+}
+
+.dl-bg-al-warning-light,
+.dl-bg-al-warning-light\/100 {
+  background-color: rgb(247, 182, 135)
+}
+
+.dl-bg-al-warning-light\/75 {
+  background-color: rgba(247, 182, 135, 0.75)
+}
+
+.dl-bg-al-warning-light\/50 {
+  background-color: rgba(247, 182, 135, 0.5)
+}
+
+.dl-bg-al-warning-light\/25 {
+  background-color: rgba(247, 182, 135, 0.25)
+}
+
+.dl-bg-al-warning-light\/0 {
+  background-color: rgba(247, 182, 135, 0)
+}
+
+.dl-bg-al-warning-lightest,
+.dl-bg-al-warning-lightest\/100 {
+  background-color: rgb(250, 244, 239)
+}
+
+.dl-bg-al-warning-lightest\/75 {
+  background-color: rgba(250, 244, 239, 0.75)
+}
+
+.dl-bg-al-warning-lightest\/50 {
+  background-color: rgba(250, 244, 239, 0.5)
+}
+
+.dl-bg-al-warning-lightest\/25 {
+  background-color: rgba(250, 244, 239, 0.25)
+}
+
+.dl-bg-al-warning-lightest\/0 {
+  background-color: rgba(250, 244, 239, 0)
 }
