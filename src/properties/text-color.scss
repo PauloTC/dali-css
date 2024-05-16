@@ -1,9 +1,6 @@
-.dl-text-al-warning-dark {
-  color: rgb(163, 76, 0)
-}
-
+.dl-text-al-warning-dark,
 .dl-text-al-warning-dark\/100 {
-  color: rgba(163, 76, 0, 1)
+  color: rgb(163, 76, 0)
 }
 
 .dl-text-al-warning-dark\/75 {
@@ -20,4 +17,25 @@
 
 .dl-text-al-warning-dark\/0 {
   color: rgba(163, 76, 0, 0)
+}
+
+.dl-text-neutral-lightest,
+.dl-text-neutral-lightest\/100 {
+  color: rgb(252, 252, 252)
+}
+
+.dl-text-neutral-lightest\/75 {
+  color: rgba(252, 252, 252, 0.75)
+}
+
+.dl-text-neutral-lightest\/50 {
+  color: rgba(252, 252, 252, 0.50)
+}
+
+.dl-text-neutral-lightest\/25 {
+  color: rgba(252, 252, 252, 0.25)
+}
+
+.dl-text-neutral-lightest\/0 {
+  color: rgba(252, 252, 252, 0)
 }
