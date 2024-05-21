@@ -1,9 +1,115 @@
 /* Display */
 
+.dl-block {
+  display: block;
+}
+
+.dl-inline-block {
+  display: inline-block;
+}
+
+.dl-inline {
+  display: inline;
+}
+
 .dl-flex {
   display: flex;
 }
 
-.dl-block {
-  display: block;
+.dl-inline-flex {
+  display: inline-flex;
+}
+
+.dl-table {
+  display: table;
+}
+
+.dl-inline-table {
+  display: inline-table;
+}
+
+.dl-table-caption {
+  display: table-caption;
+}
+
+.dl-table-cell {
+  display: table-cell;
+}
+
+.dl-table-column {
+  display: table-column;
+}
+
+.dl-table-column-group {
+  display: table-column-group;
+}
+
+.dl-table-footer-group {
+  display: table-footer-group;
+}
+
+.dl-table-header-group {
+  display: table-header-group;
+}
+
+.dl-table-row-group {
+  display: table-row-group;
+}
+
+.dl-table-row {
+  display: table-row;
+}
+
+.dl-flow-root {
+  display: flow-root;
+}
+
+.dl-grid {
+  display: grid;
+}
+
+.dl-inline-grid {
+  display: inline-grid;
+}
+
+.dl-contents {
+  display: contents;
+}
+
+.dl-list-item {
+  display: list-item;
+}
+
+.dl-hidden {
+  display: none;
+}
+
+@media (min-width: 640px) {
+  .sm\:dl-hidden {
+    display: none;
+  }
+}
+
+@media (min-width: 768px) {
+  .md\:dl-hidden {
+    display: none;
+  }
+}
+
+@media (min-width: 1024px) {
+  .lg\:dl-hidden {
+    display: none;
+  }
+}
+
+@media (min-width: 1280px) {
+  .xl\:dl-hidden {
+    display: none;
+  }
+}
+
+@media (min-width: 1536px) {
+  .xl\:dl-hidden {
+    display: none;
+  }
 }
